@@ -1,9 +1,12 @@
 # Sorting Algorithms
 
+## List of Sorting Algorithms
+- Bucket sort
+- Insertion sort
+- Bubble sort
 
-## Bucket Sort
+
+## Test
 ```
-$ python bucket_sort.py
-original: [19, 16, 12, 17, 14, 17, 10, 12, 15, 12]
-sorted  : [10, 12, 12, 12, 14, 15, 16, 17, 17, 19]
+$ python sort_algo_name.py < tests/sort_algo_name.txt
 ```
