@@ -1,8 +1,8 @@
 import random
 
-MIN = 10
-MAX = 19
-d_len = 10
+MIN   = int(input())
+MAX   = int(input())
+d_len = int(input())
 
 
 def bucket_sort(data):
