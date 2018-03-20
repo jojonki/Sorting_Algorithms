@@ -1,9 +1,12 @@
 # Sorting Algorithms
 
 ## List of Sorting Algorithms
-- Bucket sort
-- Insertion sort
-- Bubble sort
+
+|Name|Big-O|
+|----------------|-----|
+|Bucket sort|O()|
+|Insertion sort|O()|
+|Bubble sort|O(N^2)|
 
 
 ## Test
