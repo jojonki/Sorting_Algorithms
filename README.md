@@ -7,6 +7,7 @@
 |Bucket sort|O()|
 |Insertion sort|O()|
 |Bubble sort|O(N^2)|
+|Stable sort|O(N^2)|
 
 
 ## Test
